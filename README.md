@@ -1,9 +1,9 @@
 0x16. C - Simple Shell
 Background Context
 Write a simple UNIX command interpreter.
+![shell](https://github.com/Teresa-ops/Simple-Shell/assets/53917445/135d5da0-9414-4726-8408-da535be82dd4)
 
-Requ![shell](https://github.com/Teresa-ops/Simple-Shell/assets/53917445/135d5da0-9414-4726-8408-da535be82dd4)
-irements
+Requirements
 General
 Allowed editors: vi, vim, emacs
 All your files will be compiled on Ubuntu 20.04 LTS using gcc, using the options -Wall -Werror -Wextra -pedantic -std=gnu89
